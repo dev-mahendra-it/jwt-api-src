@@ -173,4 +173,4 @@ If this project was useful to you, consider giving the repository a ⭐ on GitHu
 
 ---
 
-### Made with ❤️ by Mahendra
+### Made ❤️ by Mahendra
