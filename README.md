@@ -1,4 +1,4 @@
-# OB53 JWT API
+# OB54 JWT API
 
 A lightweight Flask-based API for generating and processing authentication tokens for **Free Fire OB53**.
 
