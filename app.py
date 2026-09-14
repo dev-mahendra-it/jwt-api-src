@@ -7,7 +7,7 @@ import my_pb2
 import output_pb2
 import jwt
 
-app = Flask(__name__)
+app = Flask(__name__) 
 
 AES_KEY = b'Yg&tc%DEuh6%Zc^8'
 AES_IV = b'6oyZDr22E3ychjM%'
